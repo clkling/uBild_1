@@ -25,7 +25,7 @@ page_sections:
   media:
     image: "/uploads/2021/10/22/clk_resume_nov_2019_page_1.png"
     alt_text: ''
-  content: ''
+  content: This is corbin's resume; he is figuring out how to use this website<br>
 published: false
 
 ---
