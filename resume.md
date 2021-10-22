@@ -17,6 +17,15 @@ page_sections:
   image_2:
     image: "/uploads/2021/10/22/clk_resume_nov_2019_page_2.png"
     caption: corbin kling resume page 2
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: resume
+  headline: here go the resume
+  media:
+    image: "/uploads/2021/10/22/clk_resume_nov_2019_page_1.png"
+    alt_text: ''
+  content: ''
 published: false
 
 ---
