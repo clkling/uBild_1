@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: resume
-date: 2021-10-22 04:00:00 +0000
+date: 2021-10-22 19:40:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
