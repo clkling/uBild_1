@@ -13,8 +13,8 @@ page_sections:
     image: "/uploads/2021/10/22/clk_resume_nov_2019_page_1.png"
     caption: corbin kling resume page 1
   image_2:
-    image: ''
-    caption: ''
+    image: "/uploads/2021/10/22/clk_resume_nov_2019_page_2.png"
+    caption: corbin kling resume page 2
 published: false
 
 ---
