@@ -5,8 +5,10 @@ date: 2021-10-22 19:40:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
-  navigation: []
+  logo: "/uploads/2021/10/22/topographik-01.png"
+  navigation:
+  - link: "/"
+    link_text: resume
 - template: 2-column-media-element
   block: media-2
   image_1:
