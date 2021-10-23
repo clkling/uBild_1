@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: landing page
-date: 2021-10-23T00:00:00.000-04:00
+date: 2021-10-19 00:00:00 -0400
 page_sections:
 - template: simple-header
   block: header-3
@@ -18,10 +18,5 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-menu:
-  main:
-    identifier: home
-    weight: 1
-    title: home
 
 ---
