@@ -18,5 +18,9 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+menu:
+  main:
+    weight: 1
+    title: home
 
 ---
