@@ -7,14 +7,13 @@ sections:
 - type: jekyll-pages
   label: jekyll pages
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - page-builder
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: ''
   label: Pages
