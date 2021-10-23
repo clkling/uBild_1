@@ -4,12 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: jekyll pages
-  create: all
-  new_doc_ext: md
-  templates:
-  - page-builder
 - type: jekyll-posts
   label: Posts
   create: all

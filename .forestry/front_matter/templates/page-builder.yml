@@ -33,8 +33,5 @@ fields:
   - 4-column-footer
 pages:
 - index.md
-- index.md
 - landing-page.md
-- landing-page.md
-- resume.md
 - resume.md
