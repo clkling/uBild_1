@@ -3,7 +3,7 @@ title: Corbin's first ubild
 author: CLK
 email: clkling@ncsu.edu
 description: maybe he will figure this out?
-baseurl: "/ubuild-jekyll"
+baseurl: "/landing-page"
 url: ''
 defaults:
 - scope: ''
