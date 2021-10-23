@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: resume
-date: 2021-10-22 19:40:00 +0000
+date: 2021-10-22T19:40:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -30,5 +30,8 @@ page_sections:
   block: text-1
   content: <p><img src="/uploads/2021/10/22/mvimg_20180729_160213_1.jpg"></p>
   headline: Corbin Flys Drones; Drone
+menu:
+  main:
+    weight: 2
 
 ---
